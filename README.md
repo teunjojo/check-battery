@@ -1,4 +1,4 @@
-[![button](https://files.teunjojo.com/theme/download-button.svg)](https://files.teunjojo.com/check-battery/latest/check-battery.sh)
+[![button](https://files.teunjojo.com/theme/download-button.svg)](https://files.teunjojo.com/download.php?file=check-battery)
 <br><img src="https://img.shields.io/badge/dynamic/json?color=informational&label=version&prefix=v&query=%24.version&url=https%3A%2F%2Ffiles.teunjojo.com%2Flatest.php%3Frepo%3Dcheck-battery%26data_type%3Djson">
 # check-battery
 Shell script that send a Pushover notification when the battery is low
